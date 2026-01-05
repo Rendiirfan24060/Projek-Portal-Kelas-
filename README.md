@@ -21,3 +21,35 @@ pada projek ini beberapa tools atau module dan software yang harus ada pada mesi
 5. Terminal / Command Promp
 Tidak membutuhkan library tambahan (menggunakan Python standar)
 6.browser(chrome)
+## How to Use/Bagaimana Menggunkan Projek ini
+ 1️⃣ Buka Proyek di Visual Studio Code
+1. Buka folder project **Portal Kelas PBO** di Visual Studio Code
+2. Pastikan file `portal_kelas.py` ada di dalam folder project
+ 2️⃣ Buka Folder Proyek di Command Prompt (CMD)
+1. Di Visual Studio Code atau File Explorer,copy path folder project
+2. BukaCommand Prompt (CMD)
+3. Masuk ke folder project dengan perintah:
+   python C:\Users\user\Documents\Projek_Portal_Kelas\Projek_Portal_Kelas
+   Lalu Klik Enter
+ 4️⃣ Tampilan Program
+Setelah program dijalankan, akan muncul menu utama:
+1.Login Mahasiswa
+2.Login Dosen
+3.Keluar
+ 5️⃣ Login Mahasiswa
+1.Pilih menu Login Mahasiswa
+2.Masukkan NIM mahasiswa yang tersedia
+3.Mahasiswa dapat:
+        Melihat informasi diri
+        Melihat kelas
+        Melihat nilai
+ 6️⃣ Login Dosen
+1.Pilih menu Login Dosen
+2.Masukkan password dosen:
+                     admin123
+Dosen dapat:
+         Melihat info dosen
+         Menginput nilai mahasiswa
+ 7️⃣ Keluar Program
+Pilih menu Keluar untuk menutup aplikasi.
+
